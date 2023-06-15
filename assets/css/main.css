@@ -2692,9 +2692,7 @@ input, select, textarea {
 			max-width: 48em;
 			width: 60%;
 		}
-
 		
-
 		.spotlight:nth-child(1) {
 			background-color: rgba(0, 0, 0, 0.075);
 		}
